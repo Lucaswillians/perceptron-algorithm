@@ -142,3 +142,6 @@ Para executar o código, basta garantir que as bibliotecas necessárias estejam 
 ## 5. Conclusão
 
 Este projeto fornece uma introdução ao algoritmo de perceptron e como ele pode ser aplicado a um problema de classificação simples. A visualização das regiões de decisão e dos erros ao longo das épocas ajuda a entender melhor o processo de aprendizado do modelo.
+
+
+ref => https://medium.com/@urapython.community/perceptron-com-python-uma-introdu%C3%A7%C3%A3o-f19aaf9e9b64
